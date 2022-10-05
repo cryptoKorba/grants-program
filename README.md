@@ -264,7 +264,7 @@ Initial set of questions considered in a yes/no format:
 
 ### Evaluation Criteria: DeFi Rewards Program
 
-See [here](https://github.com/ton-society/Grants-Program/blob/main/Announcements/DeFi%20Rewards%20Program.md)
+See [here](https://github.com/ton-society/grants-program/blob/main/announcements/liquidity%20award%20program.md)
 
 ### Payment
 
