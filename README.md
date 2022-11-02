@@ -164,7 +164,7 @@ The following people make up the review committee:
 **Grant Committee**
 
 - [Justin Hyun](https://github.com/tonkongz) - Grant evaluator
-- Nan Wang - Grant evaluator
+- [Nan Wang](https://github.com/GarlicNan) - Grant evaluator
 - Eric Gil - Grant analyst/coordinator 
 - Lisa Ferdman - Sponsorship evaluator
 
