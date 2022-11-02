@@ -143,6 +143,7 @@ Grants are generally considered in following tiers (note: does not pertain to De
 - **Outcome:** All of the above, introduction to related teams/projects/communities, Ecosystem Fund introduction (as needed)
 
 NOTE 1: Grant milestones are to be allocated in increments of $5,000 or less (e.g., $50K grant application should be broken down into 10 milestones) 
+
 NOTE 2: Check out the following [link](https://telegra.ph/TON-Project-Proposal-Template-as-of-11122-11-02) for questions asked to applicants
 
 
