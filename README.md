@@ -131,16 +131,20 @@ Grants are generally considered in following tiers (note: does not pertain to De
 ### Standardized (Tier 2) :airplane:
 
 - **Demographic:** Small teams, large teams
-- **Amount:** Up to $25,000
+- **Amount:** Up to $50,000
 - **Requirements:** [Preliminary screening](#step-1-preliminary-screening), Grant Committee [short-form scoring](#step-2-short-form-scoring), [call with the team](#step-3-call-with-the-team), and advisors' buy-in
 - **Outcome:** All of the above, introduction to related teams/projects/communities, Ecosystem Fund introduction (as needed)  
 
 ### Standardized (Tier 3) :rocket:
 
-- **Demographic:** Large teams, teams with proven track record on TON or other ecosystems
+- **Demographic:** Large teams, teams with proven track record on TON or other ecosystems (very selective/rare)
 - **Amount:** Up to $100,000
 - **Requirements:** [Preliminary screening](#step-1-preliminary-screening), Grant Committee [long-form scoring](#step-25-long-form-scoring), [call with the team](#step-3-call-with-the-team), and advisors' recommendation
 - **Outcome:** All of the above, introduction to related teams/projects/communities, Ecosystem Fund introduction (as needed)
+
+NOTE 1: Grant milestones are to be allocated in increments of $5,000 or less (e.g., $50K grant application should be broken down into 10 milestones) 
+NOTE 2: Check out the following [link](https://telegra.ph/TON-Project-Proposal-Template-as-of-11122-11-02) for questions asked to applicants
+
 
 ## Process  :eight_spoked_asterisk:
 
@@ -159,6 +163,8 @@ The following people make up the review committee:
 **Grant Committee**
 
 - [Justin Hyun](https://github.com/tonkongz) - Grant evaluator
+- Nan Wang - Grant evaluator
+- Eric Gil - Grant analyst/coordinator 
 - Lisa Ferdman - Sponsorship evaluator
 
 **Technical Advisors**
