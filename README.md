@@ -138,7 +138,7 @@ Grants are generally considered in following tiers (note: does not pertain to De
 ### Standardized (Tier 3) :rocket:
 
 - **Demographic:** Large teams, teams with proven track record on TON or other ecosystems (very selective/rare)
-- **Amount:** Up to $100,000
+- **Amount:** Varied
 - **Requirements:** [Preliminary screening](#step-1-preliminary-screening), Grant Committee [long-form scoring](#step-25-long-form-scoring), [call with the team](#step-3-call-with-the-team), and advisors' recommendation
 - **Outcome:** All of the above, introduction to related teams/projects/communities, Ecosystem Fund introduction (as needed)
 
