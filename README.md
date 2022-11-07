@@ -170,11 +170,9 @@ The following people make up the review committee:
 
 **Technical Advisors**
 
-- Dr. Elias
+- Dr. Elias (Ilya)
 - [Tal Kol](https://github.com/talkol)
-- Anatoliy Makosov
-- Kirill Emelyanenko
-- Narek Abovyan
+- [Narek Abovyan](https://github.com/Naltox)
 
 **Business Advisors**
 
