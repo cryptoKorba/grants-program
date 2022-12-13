@@ -109,7 +109,7 @@ Grants will generally fit into one or more of the following categories:
 5. **DeFi Rewards Program**
    - Incentive program for teams building DeFi projects which accelerates TVL
 6. **Sponsorships**
-   - Mainly grants for events, exhibitions, ambassador meet-ups - aims to increase userbase
+   - Mainly grants for developer-oriented events - aims to activate local developer communities
 
 ### Developer Support
 
