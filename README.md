@@ -151,7 +151,7 @@ NOTE 2: Check out the following [link](https://telegra.ph/TON-Project-Proposal-T
 
 ### Application
 
-Current process for applying is to visit the grants section of the [website](https://ton.org/grants). We will very soon also fully open up applications via our grants platform partner, [Questbook] (https://new.questbook.app/profile/?daoId=0xed&chainId=137). As part of the application, the following [template](https://telegra.ph/TON-Project-Proposal-Template-as-of-11122-11-02) should be filled out as comprehensively as possible. Applications will be reviewed on a rolling basis. GitHub grantee section will be updated with accepted grantees on an ongoing basis, but official announcements with stats will be announced on a quarterly basis via TON Society blog post. 
+Current process for applying is to visit the grants section of the [website](https://ton.org/grants). We will very soon also fully open up applications via our grants platform partner, [Questbook](https://new.questbook.app/profile/?daoId=0xed&chainId=137). As part of the application, the following [template](https://telegra.ph/TON-Project-Proposal-Template-as-of-11122-11-02) should be filled out as comprehensively as possible. Applications will be reviewed on a rolling basis. GitHub grantee section will be updated with accepted grantees on an ongoing basis, but official announcements with stats will be announced on a quarterly basis via TON Society blog post. 
 
 ### Review Committee
 
