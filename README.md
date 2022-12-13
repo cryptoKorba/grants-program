@@ -115,7 +115,7 @@ Grants will generally fit into one or more of the following categories:
 
 The grants program not only consists of funding but a way for developers and teams to receive feedback on proposals, delivered milestones, and development in general. Feedback on proposals and delivered milestones will happen through GitHub comments. Please do your best to respond to public comments in a timely manner.
 
-As for development, best place to start is reading through official documentation and browsing the [developer blog posts](https://society.ton.org/). For *specific* technical discussions, please find the dedicated Telegram channel [here](https://t.me/tondev_eng) (@tondev_eng). If you feel that the questions are long-form in nature and other developers would benefit from referencing the dialogue in the future, we highly encourage also posting on [Stack Overflow](https://stackoverflow.com/questions/tagged/ton) (tag: ton). Your contribution to public forum discussion could also result in recognition grant and social reputation in the TON developer community. Simply put, keep the greater good of developer community in mind when interacting, rather than sole focus of getting individual questions answered.
+As for development, best place to start is reading through official documentation and browsing the [developer blog posts](https://society.ton.org/). For *specific* technical discussions, please find the dedicated Telegram channel [here](https://t.me/tondev_eng) (@tondev_eng). If you feel that the questions are long-form in nature and other developers would benefit from referencing the dialogue in the future, we highly encourage also posting on [TON Overflow](https://answers.ton.org/). Your contribution to public forum discussion could also result in recognition grant and social reputation in the TON developer community. Simply put, keep the greater good of developer community in mind when interacting, rather than sole focus of getting individual questions answered.
 
 ## Funding Tiers :signal_strength:
 
@@ -137,7 +137,7 @@ Grants are generally considered in following tiers (note: does not pertain to De
 
 ### Standardized (Tier 3) :rocket:
 
-- **Demographic:** Large teams, teams with proven track record on TON or other ecosystems (very selective/rare)
+- **Demographic:** Large teams, teams with proven track record on TON or other ecosystems (highly selective/rare)
 - **Amount:** Varied
 - **Requirements:** [Preliminary screening](#step-1-preliminary-screening), Grant Committee [long-form scoring](#step-25-long-form-scoring), [call with the team](#step-3-call-with-the-team), and advisors' recommendation
 - **Outcome:** All of the above, introduction to related teams/projects/communities, Ecosystem Fund introduction (as needed)
@@ -151,11 +151,7 @@ NOTE 2: Check out the following [link](https://telegra.ph/TON-Project-Proposal-T
 
 ### Application
 
-Current process for applying is to visit the grants section of the [website](https://ton.org/grants). We will soon also let applications apply via our grants platform partner, Questbook. As part of the application, the following [template](https://telegra.ph/TON-Project-Proposal-Template-as-of-11122-11-02) should be filled out as comprehensively as possible. Applications will be reviewed on a rolling basis. GitHub grantee section will be updated with accepted grantees on an ongoing basis, but official announcements with stats will be announced on a quarterly basis via TON Society blog post. 
-
-In the near future, we will update this process and institute an open-application via GitHub submission (fork and pull request). This will allow for public comment period and chance for the founding team to address any questions and concerns from the community. However, current process will still be available for team willing to test their applications with Grants Team.
-
-*[Coming soon]*
+Current process for applying is to visit the grants section of the [website](https://ton.org/grants). We will very soon also fully open up applications via our grants platform partner, Questbook (upon TON wallet integration). As part of the application, the following [template](https://telegra.ph/TON-Project-Proposal-Template-as-of-11122-11-02) should be filled out as comprehensively as possible. Applications will be reviewed on a rolling basis. GitHub grantee section will be updated with accepted grantees on an ongoing basis, but official announcements with stats will be announced on a quarterly basis via TON Society blog post. 
 
 ### Review Committee
 
@@ -163,21 +159,23 @@ The following people make up the review committee:
 
 **Grant Committee**
 
-- [Justin Hyun](https://github.com/tonkongz) - Grant evaluator
-- [Nan Wang](https://github.com/GarlicNan) - Grant evaluator
-- [Eric Gil](https://github.com/EricJiyong) - Grant analyst/coordinator 
-- Lisa Ferdman - Sponsorship evaluator
+- [Justin Hyun](https://github.com/tonkongz) - Grant evaluator / Head of Incubation at TON Foundation
+- [Nan Wang](https://github.com/GarlicNan) - Grant evaluator / Investment Associate at TON Foundation
+- [Chia Jia Ho](https://github.com/Jahouiz) - Grant analyst / BD Intern at TON Foundation 
+- Robin Dey - Grant evaluator / DevRel at TON Foundation
+- Lisa Ferdman - Sponsorship evaluator / Head of Events at TON Foundation
 
 **Technical Advisors**
 
-- Dr. Elias (Ilya)
-- [Tal Kol](https://github.com/talkol)
-- [Narek Abovyan](https://github.com/Naltox)
+- Dr. Elias - TON Tech
+- [Tal Kol](https://github.com/talkol) - TON Foundation Ambassador
+- [Narek Abovyan](https://github.com/Naltox) - TON Tech
+- Robin Dey - DevRel at TON Foundation
 
-**Business Advisors**
+**Operational Advisors**
 
-- Andrew Rogozov
-- Steve Yun
+- Oleg - Founding Member at TON Foundation
+- Steve Yun - Founding Member at TON Foundation
 
 ### Evaluation Criteria: Grants
 
