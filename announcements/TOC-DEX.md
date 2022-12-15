@@ -1,4 +1,6 @@
-# **Liquidity Award Program**
+# **The Open Challenge: DEX**
+
+12/15/22 Update: The team is iterating on an updated version of The Open Challenge: DEX terms and targeting formal announcement early January 2023.
 
 ## What is it?
 
@@ -37,7 +39,6 @@ Additional guidelines are set in place to prevent cheating. Here are some exampl
 
 ## Terms
 
-- 1-year window with fixed TON price ($1.00)
 - Post 1-year window vesting will be at the trailing 1-month average TON spot price
 - 6-month cliff and 12-month vesting (see example below)
 - Awards vested monthly starting from the half-year mark (e.g. T+6 (months)) based on time-weighted average TVL
